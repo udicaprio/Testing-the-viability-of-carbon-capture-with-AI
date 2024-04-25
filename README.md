@@ -18,7 +18,7 @@ This repository is open to contribution. If you want to contribute, create a new
 ## Disclamer
 This repository's data and code are only for didactical use. They were created in-silico without any lab experiments but report the actual trends between input and output. Therefore, we discourage their use for commercial or research purposes.
 
-## Further CO2 capture material
+## Further CO<sub>2</sub> capture material
 [Prof. Leblebici talk: Can you take CO2 out of the athmosphere?](https://www.universiteitvanvlaanderen.be/college/can-you-take-co2-out-of-the-atmosphere)<br>
 [Use of monoethanolamine (MEA) for CO2 capture in a global scenario: Consequences and alternatives](https://doi.org/10.1016/j.desal.2015.08.004)<br>
 [Carbon dioxide capture using liquid absorption methods: a review](https://link.springer.com/article/10.1007/s10311-020-01093-8)<br>
