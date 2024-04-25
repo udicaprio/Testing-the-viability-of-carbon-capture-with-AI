@@ -5,7 +5,7 @@
 This is the repository of *Module 7- Testing the viability of carbon capture with AI* of the **CEAD 2024 | Reduction of carbon footprint in industry and beyond**.<br>
 This repository contains the exercise data, assignment and auxiliary functions created for this course. Two exercises are available; they have the same aim but cover different cases: the first refers to the high gas flow rate case, and the second to the low gas flow rate case. At the end of the course, an extensive solution to the exercise will be updated as well.<p>
 
-## Note for the students of the CEAD 2024
+## Note for the students of the CEAD 2024 (Class 25<sup>th</sup> April 2024)
 The second part of the exercise (i.e., design a column after the model training) is optional.
 
 ## File description
