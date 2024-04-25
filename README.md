@@ -15,7 +15,7 @@ This repository contains the exercise data, assignment and auxiliary functions c
 ## Contributions
 This repository is open to contribution. If you want to contribute, create a new pull request or open a new issue using the tools available on GitHub.
 
-## Disclamer
+## Disclaimer
 This repository's data and code are only for didactical use. They were created in-silico without any lab experiments but report the actual trends between input and output. Therefore, we discourage their use for commercial or research purposes.
 
 ## Further CO<sub>2</sub> capture material
